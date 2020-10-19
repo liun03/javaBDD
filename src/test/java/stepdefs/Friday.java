@@ -1,4 +1,4 @@
-package hellocucumber;
+package stepdefs;
 
 import static org.junit.Assert.assertEquals;
 
@@ -13,7 +13,7 @@ class IsItFriday {
   }
 }
 
-public class StepDefinitions {
+public class Friday {
 
   private String today;
   private String actualAnswer;
